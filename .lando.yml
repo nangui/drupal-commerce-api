@@ -1,4 +1,14 @@
 name: commerceapi
 recipe: drupal8
 config:
+  php: '7.2'
+  via: apache
   webroot: web
+  database: mysql
+  username: drupal8
+  password: drupal8
+  host: database
+  # for mysql
+  port: 3306
+  drush: ^8
+  xdebug: true

@@ -4,6 +4,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/vendor/jcalderonzumba/gastonjs/examples/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/inflector" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
