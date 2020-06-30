@@ -1,0 +1,14 @@
+uuid: bf9ce26a-d893-43e1-a661-aaa6e8af1e40
+name: Commerce
+mail: adonainangui03@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

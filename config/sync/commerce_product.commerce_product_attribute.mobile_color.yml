@@ -1,0 +1,7 @@
+uuid: 6821860d-f4bf-456f-8be7-f7a4078e4cac
+langcode: en
+status: true
+dependencies: {  }
+id: mobile_color
+label: 'Mobile color'
+elementType: commerce_product_rendered_attribute

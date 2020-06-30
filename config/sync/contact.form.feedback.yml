@@ -1,0 +1,14 @@
+uuid: bd44642e-4641-408f-a2f3-4a741181f895
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - adonainangui03@gmail.com
+reply: ''
+weight: 0
+message: null
+redirect: null

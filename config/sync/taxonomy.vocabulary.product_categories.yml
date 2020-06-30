@@ -1,0 +1,8 @@
+uuid: 067fa252-cb77-42b5-a0aa-313c6ce239ef
+langcode: en
+status: true
+dependencies: {  }
+name: 'Product Categories'
+vid: product_categories
+description: 'This is a term to define a product categories'
+weight: 0
